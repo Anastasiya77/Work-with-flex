@@ -623,3 +623,119 @@ right-menu-cart {
 }
 
 
+.income_number{
+   width: 60px;
+   height: 18px;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 15px;
+   line-height: 18px;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+}
+
+.income_expence {
+   width: 60px;
+   height: 18px;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 15px;
+   line-height: 18px;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+}
+
+.income_text {
+   width: 33px;
+   height: 16px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 10px;
+   line-height: 157.3%;
+   color: #919193;
+
+}
+
+.expence_text {
+   width: 33px;
+   height: 16px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 10px;
+   line-height: 157.3%;
+   color: #919193;
+}
+
+.diagram {
+   position: absolute;
+   width: 277px;
+   height: 108px;
+   padding-left: 36px;
+   padding-top: 212px;
+}
+
+.container_4 {
+   max-width: 1160px;
+   width: 100%;
+   background-color: #fff;
+   height: 710px;
+   position: absolute;
+   left: 190px;
+   top: 2100px;
+}
+
+.title_4  {
+   position: absolute;
+   width: 210px;
+   height: 132px;
+   left: 650px;
+   top: 20px;
+   font-style: normal;
+   font-weight: 980;
+   font-size: 110px;
+   line-height: 132px;
+   display: flex;
+   color: #151F32;
+}
+
+.section_square_4 {
+   background-image:  url(./images/square_4.svg);
+   width: 442px;
+   height: 423px;
+   margin-left: 110px;
+   top: 2480px;
+   background-repeat: no-repeat;
+   
+   
+}
+
+
+.arrow_big_4 {
+   position: absolute;
+   width: 24px;
+   height: 25px;
+   left: 185px;
+   top: 328px;
+
+   
+}
+
+.arrow_small_4 {
+   position: absolute;
+   width: 16px;
+   height: 17px;
+   left: 138px;
+   top: 332px;
+   
+}
+
+
+.play {
+   position: absolute;
+   width: 43px;
+   height: 43px;
+   left: 140px;
+   top: 230px;
+}
