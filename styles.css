@@ -164,7 +164,7 @@ right-menu-cart {
 }
 
 
-p {
+.heading_text {
    position: absolute;
    width: 190px;
    height: 66px;
@@ -576,3 +576,50 @@ p {
    background: #FFFFFF;
    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
 }
+
+
+.square_title_3 {
+   position: absolute;
+   width: 77px;
+   height: 25px;
+   padding-left: 30px;
+   padding-top: 35px;
+   font-style: normal;
+   font-weight: 995;
+   font-size: 21px;
+   line-height: 25px;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+   
+}
+
+
+.square_text_3 {
+   position: absolute;
+   width: 207px;
+   height: 38px;
+   padding-left: 30px;
+   padding-top: 74px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 157.3%;
+   color: #151F32;
+
+}
+
+.income_3 {
+   
+   position: absolute;
+   padding-left: 30px;
+   padding-top: 133px;
+}
+
+.expence_3 {
+   position: absolute;
+   padding-left: 120px;
+   padding-top: 133px;
+}
+
+
