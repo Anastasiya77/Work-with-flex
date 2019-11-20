@@ -683,7 +683,7 @@ right-menu-cart {
    height: 710px;
    position: absolute;
    left: 190px;
-   top: 2100px;
+   top: 2060px;
 }
 
 .title_4  {
@@ -705,7 +705,6 @@ right-menu-cart {
    width: 442px;
    height: 423px;
    margin-left: 110px;
-   top: 2480px;
    background-repeat: no-repeat;
    
    
@@ -738,4 +737,65 @@ right-menu-cart {
    height: 43px;
    left: 140px;
    top: 230px;
+}
+
+.square_title_4 {
+   position: absolute;
+   width: 117px;
+   height: 19px;
+   left: 140px;
+   top: 117px;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 16px;
+   line-height: 19px;
+   display: flex;
+   align-items: center;
+   color: #ffffff;
+}
+
+
+.square_text_4 {
+   position: absolute;
+   width: 178px;
+   height: 38px;
+   left: 140px;
+   top: 160px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12px;
+   line-height: 157.3%;
+   color: #FCD3AC;
+}
+
+.cup {
+   position: absolute;
+   width: 230px;
+   height: 180px;
+   left: 337px;
+   top: 230px;
+
+}
+
+.phone {
+   position: absolute;
+   width: 326px;
+   height: 180px;
+   left: 600px;
+   top: 230px;
+   
+}
+
+.section_Minimal veniam {
+   max-width: 350px;
+   display: flex;
+   background-color: #5e10b9;
+   height: 200px;
+   position: absolute;
+   left: 190px;
+   top: 500px;
+}
+
+.section_Minimal veniam_title {
+   
 }
