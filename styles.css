@@ -786,16 +786,161 @@ right-menu-cart {
    
 }
 
-.section_Minimal veniam {
-   max-width: 350px;
-   display: flex;
-   background-color: #5e10b9;
-   height: 200px;
+.section_Minimal_veniam {
+   width: 230px;
+   background-color: #fff;
+   height: 120px;
    position: absolute;
-   left: 190px;
-   top: 500px;
+   left: 337px;
+   top: 440px;
 }
 
-.section_Minimal veniam_title {
+
+
+.section_Exercitationem_ullam {
+   position: absolute;
+   width: 326px;
+   height: 120px;
+   left: 600px;
+   top: 440px;
+   background-color: #fff;
+}
+
+
+.section_Minimal_veniam_title  {
+   position: absolute;
+   width: 112px;
+   height: 24px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 15px;
+   line-height: 157.3%;
+   color: #000000;
+   
+   
+}
+
+.section_Exercitationem_ullam_title {
+   position: absolute;
+   width: 160px;
+   height: 24px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 15px;
+   line-height: 157.3%;
+   color: #000000;
+}
+
+.section_Minimal_veniam_text {
+   position: absolute;
+   width: 175px;
+   height: 40px;
+   padding-top: 25px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #151F32;
+  
+
+}
+
+
+.section_Exercitationem_ullam_text {
+   position: absolute;
+   width: 175px;
+   height: 40px;
+   padding-top: 25px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #151F32;
+}
+   
+
+.container_5 {
+   max-width: 1160px;
+   width: 100%;
+   background-color: #fff;
+   height: 400px;
+   position: absolute;
+   left: 290px;
+   top: 2800px;
+}
+
+
+
+.section_container_5_1 {
+   position: absolute;
+   width: 400px;
+   height: 326px;
+   background-color: #ffffff;
+   
+}
+
+
+.section_container_5_2 {
+   position: absolute;
+   width: 400px;
+   height: 326px;
+   background-color: #ffffff;
+   left: 500px;
+}
+
+
+
+.Minimal_veniam_title_5  {
+   position: absolute;
+   width: 112px;
+   height: 24px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 15px;
+   line-height: 157.3%;
+   color: #000000;
+   align-items: center;
+   
+   
+}
+
+
+.container_6 {
+   max-width: 822px;
+   width: 100%;
+   background-image:  url(./images/container-6.svg);
+   height: 389px;
+   position: absolute;
+   left: 290px;
+   top: 3200px;
+   
+}
+
+.triangle {
+   position: absolute;
+   margin-left: -158px;
+   margin-top: -160px;
+ 
+}
+
+
+.image_10 {
+   position: absolute;
+   width: 363px;
+   height: 180px;
+   right: 420px;
+   top: 120px;
+}
+
+
+footer {
+   width: 100%;
+   max-width: 900px;
+   background-color: #d03333;
+   height: 200px;
+   position: absolute;
+   top: 3680px;
+   left: 190px;
+ 
    
 }

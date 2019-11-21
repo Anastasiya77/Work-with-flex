@@ -1,0 +1,23 @@
+<svg width="822" height="390" viewBox="0 0 822 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.508789" width="821" height="388" fill="#F6BC51" stroke="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="822" height="390">
+<rect x="0.5" y="0.508789" width="821" height="388" fill="#C4C4C4" stroke="black"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="0.00133014" y="-0.430385" width="91.1798" height="641.096" transform="matrix(-0.90131 -0.433175 0.90397 -0.427596 -70.0684 271.218)" fill="#F6BC51" stroke="black"/>
+<rect x="0.00133014" y="-0.430385" width="91.1798" height="769.551" transform="matrix(-0.90131 -0.433175 0.90397 -0.427596 -103.383 366.138)" fill="#78CBC1" stroke="black"/>
+<rect x="0.00133014" y="-0.430385" width="91.1798" height="837.863" transform="matrix(-0.90131 -0.433175 0.90397 -0.427596 -82.6753 433.884)" fill="#FEFEF7" stroke="black"/>
+<rect x="0.00133014" y="-0.430385" width="91.1798" height="1106.24" transform="matrix(-0.90131 -0.433175 0.90397 -0.427596 0.114241 473.934)" fill="#78CBC1" stroke="black"/>
+<rect x="0.00133014" y="-0.430385" width="228.515" height="985.076" transform="matrix(-0.90131 -0.433175 0.90397 -0.427596 207.236 573.579)" fill="#77CBC3" stroke="black"/>
+</g>
+<path d="M353.665 71.3483L434 33.5612L514.523 71.3483H353.665Z" fill="#032F48" stroke="black"/>
+<path d="M273.105 109.412L352.004 72.0601L433.916 109.412H273.105Z" fill="#032F48" stroke="black"/>
+<path d="M190.959 148.2L271.35 110.359L351.365 147.692L190.959 148.2Z" fill="#EF562C" stroke="black"/>
+<path d="M521.434 148.893L441.052 185.802L360.67 148.893H521.434Z" fill="#EF562C" stroke="black"/>
+<path d="M601.048 110.83L522.804 147.947L440.261 110.83H601.048Z" fill="#EF562C" stroke="black"/>
+<path d="M683.191 72.0418L602.8 109.883L522.785 72.5504L683.191 72.0418Z" fill="#134657" stroke="black"/>
+<path d="M190.305 226.425L112.363 265.034L191.559 303.067L190.305 226.425Z" fill="#F6BC51" stroke="black"/>
+<path d="M270.118 188.475L191.723 226.063L271.372 265.121L270.118 188.475Z" fill="#F6BC51" stroke="black"/>
+<path d="M351.448 149.297L271.548 187.905L351.616 225.747L351.448 149.297Z" fill="#F6BC51" stroke="black"/>
+<rect x="470" y="72.0088" width="352" height="317" fill="#032F48"/>
+</svg>
