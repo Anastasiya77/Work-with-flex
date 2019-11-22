@@ -73,12 +73,12 @@ header,
 
    
 
-right-menu-cart {
+.right-menu-cart {
    position: absolute;
    display: flex;
    width: 13px;
    height: 16px;
-   left: 200px;
+   padding-left: 75px;
   
 }
 
@@ -904,6 +904,90 @@ right-menu-cart {
    
 }
 
+.Minimal_veniam_text_5 {
+   position: absolute;
+   width: 175px;
+   height: 20px;
+   top: 23px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #151F32;
+
+   
+}
+
+.Minimal_veniam_number_5 {
+   position: absolute;
+   width: 263px;
+   height: 72px;
+   top: 47px;
+   font-style: normal;
+   font-weight: 800;
+   font-size: 46px;
+   line-height: 157.3%;
+   display: flex;
+   align-items: center;
+   color: #FF7C14;
+}
+
+.Minimal_veniam_text_2_5 {
+   position: absolute;
+   width: 175px;
+   height: 20px;
+   top: 110px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #151F32;
+}
+
+.Suscipit_laboriosam_title_5{
+   position: absolute;
+   width: 240px;
+   height: 20px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 157.3%;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+}
+
+.Suscipit_laboriosam_text_5 {
+   position: absolute;
+   width: 190px;
+   height: 66px;
+   top: 34px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 157.3%;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+}
+
+
+.LEARN_MORE_5 {
+   position: absolute;
+   width: 71px;
+   height: 17px;
+   top: 130px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 11px;
+   line-height: 157.3%;
+   display: flex;
+   align-items: center;
+   color: #151F32;
+   text-decoration: none;
+   
+
+}
 
 .container_6 {
    max-width: 822px;
@@ -912,8 +996,72 @@ right-menu-cart {
    height: 389px;
    position: absolute;
    left: 290px;
-   top: 3200px;
+   top: 3100px;
    
+   
+}
+
+.blue_square_6 {
+   position: absolute;
+   width: 352px;
+   height: 317px;
+   left: 470px;
+   top: 72px;
+ 
+}
+
+.Our_programs_6 {
+   position: absolute;
+   width: 180px;
+   height: 31px;
+   padding-left: 10px;
+   padding-top: 20px;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 26px;
+   line-height: 31px;
+   display: flex;
+   align-items: center;
+   letter-spacing: 1px;
+   color: #FFFFFF;
+   padding-top: 35px;
+   padding-left: 50px;
+}
+
+.Our_programs_text_6 {
+   position: absolute;
+   width: 229px;
+   height: 66px;
+   padding-top: 75px;
+   padding-left: 50px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12px;
+   line-height: 157.3%;
+   display: flex;
+   align-items: center;
+   color: #FCD3AC;
+   
+}
+
+.Subscribe {
+   width: 139px;
+   height: 49px;
+   text-align: center;
+   background-color: #EFF7FF;
+   border: none;
+   position: absolute;
+   font-family: 'Lato';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 17px;
+   line-height: 20px;
+   display: flex;
+   align-items: center;
+   color: #032F48;
+   padding-left: 32px;
+   margin-left: 50px;
+   margin-top: 180px;
 }
 
 .triangle {
@@ -936,11 +1084,245 @@ right-menu-cart {
 footer {
    width: 100%;
    max-width: 900px;
-   background-color: #d03333;
-   height: 200px;
+   height: 162px;
    position: absolute;
-   top: 3680px;
-   left: 190px;
- 
-   
+   top: 3655px;
+   left: 220px;
+}
+
+.footer_BinGo {
+   position: absolute;
+   width: 240px;
+   height: 162px;
+   display: flex;
+}
+
+.Logo_BinGo_footer {
+   position: absolute;
+   width: 65px;
+   height: 24px;
+}
+
+.footer_BinGo_text {
+   position: absolute;
+   width: 198px;
+   height: 40px;
+   padding-top: 40px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #151F32;
+}
+
+.footer_Company {
+   position: absolute;
+   width: 240px;
+   height: 162px;
+   display: flex;
+   margin-left: 240px;
+}
+
+
+.Company_title {
+   position: absolute;
+   width: 51px;
+   height: 20px;
+   padding-left: 22px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+}
+
+.News_text {
+   position: absolute;
+   width: 30px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-left: 22px;
+   padding-top: 38px;
+   text-decoration: none;
+}
+
+.Technology_text {
+   position: absolute;
+   width: 30px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-left: 22px;
+   padding-top: 58px;
+   text-decoration: none;
+}
+
+.Hiring_text {
+   position: absolute;
+   width: 30px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-left: 22px;
+   padding-top: 78px;
+   text-decoration: none;
+}
+
+.Promotion_text {
+   position: absolute;
+   width: 30px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-left: 22px;
+   padding-top: 98px;
+   text-decoration: none;
+}
+
+.footer_Expand {
+   position: absolute;
+   width: 240px;
+   height: 162px;
+   display: flex;
+   margin-left: 480px;
+}
+
+
+.Expand_title {
+   position: absolute;
+   width: 40px;
+   height: 20px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   text-decoration: none;
+}
+
+.Partners_text {
+   position: absolute;
+   width: 30px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 38px;
+   text-decoration: none;
+}
+
+
+.Enterprise_Service_text {
+   position: absolute;
+   width: 100px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 58px;
+   text-decoration: none;
+}
+
+
+.Developer_text {
+   position: absolute;
+   width: 100px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 78px;
+   text-decoration: none;
+}
+
+.Documentation_text {
+   position: absolute;
+   width: 100px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 98px;
+   text-decoration: none;
+}
+
+.footer_Help {
+   position: absolute;
+   width: 180px;
+   height: 162px;
+   display: flex;
+   margin-left: 720px;
+}
+
+.Help_title {
+   position: absolute;
+   width: 40px;
+   height: 20px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+
+
+}
+
+.Help_Centre_text {
+   position: absolute;
+   width: 80px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 38px;
+   text-decoration: none;
+}
+
+.Product_text {
+   position: absolute;
+   width: 80px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 58px;
+   text-decoration: none;
+}
+
+.Tool_text {
+   position: absolute;
+   width: 80px;
+   height: 20px;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 163.3%;
+   color: #000000;
+   padding-top: 78px;
+   text-decoration: none;
 }
